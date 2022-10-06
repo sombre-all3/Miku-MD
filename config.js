@@ -10,17 +10,17 @@ global.antitags = true
 global.Owner = ['2250501129818']
 global.OwnerNumber = ['2250501129818']
 global.ownertag = ['2250501129818']
-global.BotName = "DARK BOT"
-global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 𝘿𝘼𝙀𝙈𝙊𝙉"
-global.author = "By: 𝙏𝙊𝙓𝙄𝘾"
-global.OwnerName = "𝙊𝙈𝘽𝙍𝙀"
+global.BotName = "𝘿𝘼𝙍𝙆 𝘽𝙊𝙏"
+global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 "
+global.author = "𝘿𝘼𝙀𝙈𝙊𝙉"
+global.OwnerName = "𝘿𝘼𝙍𝙆"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
 global.location = "West Bengal, India"
