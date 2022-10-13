@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2250501129818']
-global.OwnerNumber = ['2250501129818']
-global.ownertag = ['2250501129818']
-global.BotName = "𝘿𝘼𝙍𝙆 𝘽𝙊𝙏"
-global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 "
-global.author = "𝘿𝘼𝙀𝙈𝙊𝙉/🕊️"
-global.OwnerName = "𝘿𝘼𝙍𝙆 𝙆𝙄𝙇𝙇𝙐𝘼"
+global.Owner = ['2250501110437']
+global.OwnerNumber = ['2250501110437']
+global.ownertag = ['2250501110437']
+global.BotName = "𝙃𝘼𝘾𝙆 𝘽𝙊𝙏"
+global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉"
+global.author = ""
+global.OwnerName = "𝙅•𝙃𝘼𝘾𝙆"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
