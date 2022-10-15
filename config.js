@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2250504160076']
-global.OwnerNumber = ['2250504160076']
-global.ownertag = ['2250504160076']
+global.Owner = ['22504160076']
+global.OwnerNumber = ['22504160076']
+global.ownertag = ['22504160076']
 global.BotName = "𝙆𝙄𝙇𝙇𝙐𝘼 𝘽𝙊𝙏"
 global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉"
 global.author = ""
